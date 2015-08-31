@@ -61,8 +61,8 @@ test:
   <<: *default
   adapter: postgresql
   database: testingapp_test
-  username: postgres
-  password: 
+  username: ajeet
+  password: ajeet
 
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
